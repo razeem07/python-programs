@@ -1,0 +1,22 @@
+ 
+
+ptint ("message) => print a message in console
+
+type(object) => return data type of object
+
+input("messgae") => read the value from console {return string value}
+
+round(object,precision)
+
+len()
+
+range(start,stop,step) # return sequence of numbers to end
+
+min(num1,num2) return smallest numbers
+
+max(num1,num2) return largest numbers
+
+#data type 
+
+
+
